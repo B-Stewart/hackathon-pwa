@@ -1,0 +1,18 @@
+{
+  "timeLeft": 78962,
+  "displayName": "Daily Deal\n15% off on Hair Color\nPromo code: DDHAIRC",
+  "url": "https://www.iherb.com/c/Hair-Color",
+  "img": "https://s3.images-iherb.com/cms/banners/mdealbanner0327r1en-us.jpg",
+  "products": [
+    {
+      "title": "Surya Brasil, Henna Cream, High-Performance Healthy Hair Color for Grey Coverage, Dark Brown, 2.37 fl oz (70 ml)",
+      "image": "https://s3.images-iherb.com/suh/suh72024/u/2.jpg",
+      "price": "14.99"
+    },
+    {
+      "title": "Light Mountain, Organic Natural Hair Color & Conditioner, Red, 4 oz (113 g)",
+      "image": "https://s3.images-iherb.com/ltm/ltm10003/u/1.jpg",
+      "price": "34.99"
+    }
+  ]
+}
