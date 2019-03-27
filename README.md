@@ -17,3 +17,9 @@
 1. Development pain points of service workers (needing to build first).
 2. How to engage owners in performance metrics not just devs.
 3. How to get customers to engage with PWA
+
+## Future
+
+1. Offline functionality could queue Add to cart calls to be triggered on restoration of internet.
+2. Hydrate calls with new data with a 'refresh button'
+3. Automatically refresh api calls
